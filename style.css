@@ -28,7 +28,8 @@ body::-webkit-scrollbar{ /*para barra de rolagem sair*/
 }
 
 #logo{
-    width: 10vw;
+    
+    width: 6vw;
     height: 100%;
 }
 
