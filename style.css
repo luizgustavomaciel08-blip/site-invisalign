@@ -128,7 +128,7 @@ body::-webkit-scrollbar{ /*para barra de rolagem sair*/
     display: flex;
     width: 100%;
     height: 100vh;
-    background: #77adda;
+    background: #408fcf;
 }
 
 .left-side, .right-side{
@@ -189,7 +189,7 @@ body::-webkit-scrollbar{ /*para barra de rolagem sair*/
     border-radius: 50px;
     border: none;
     justify-content: center;
-    background-color: rgb(20, 139, 207);
+    background-color: rgb(92, 163, 204);
     color: white;
     padding: 1vw 2vw;
 }
